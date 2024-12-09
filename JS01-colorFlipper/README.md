@@ -1,1 +1,1 @@
-Some Javascript Projects
+Some basic Javascript Projects
