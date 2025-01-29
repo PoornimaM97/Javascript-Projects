@@ -4,3 +4,4 @@ Some basic Javascript projects
 03-reviews
 04-navbar
 05-sidebar
+06-modal
